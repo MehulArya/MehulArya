@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 You can reach me over email.(mehularya007@gamil.com)
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I like reading books occasionaly and a superhero movie enthusiast.
+- ⚡ Fun fact: I like reading books and comics occasionaly and a superhero movie enthusiast.
 
 <!---
 MehulArya/MehulArya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
